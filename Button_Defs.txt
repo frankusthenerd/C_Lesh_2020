@@ -1,0 +1,12 @@
+left
+right
+up
+down
+action
+fire-1
+fire-2
+fire-3
+start
+select
+l-button
+r-button
